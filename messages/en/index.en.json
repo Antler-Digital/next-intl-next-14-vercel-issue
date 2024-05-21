@@ -1,0 +1,4 @@
+{
+  "one": "This is a static page no fallback with internationalization.",
+  "two": "This is a fallback dynamic page with internationalization."
+}
